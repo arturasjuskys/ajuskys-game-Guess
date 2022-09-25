@@ -117,3 +117,37 @@ input[type="number"] {
 .score {
   margin-bottom: 2rem;
 }
+
+@media only screen and (max-width: 768px) {
+  .again {
+    top: 1rem;
+    left: 1rem;
+    font-size: 1rem;
+    padding: 1rem;
+  }
+  .values {
+    top: 2rem;
+    right: 1rem;
+    font-size: 1.3rem;
+  }
+  h1 {
+    font-size: 2rem;
+  }
+  .question {
+    font-size: 3rem;
+    width: 8rem;
+    padding: 1.5rem 0rem;
+  }
+
+  /* bottom */
+  main {
+    flex-direction: column-reverse;
+  }
+  .right {
+    margin-top: 4rem;
+    font-size: 1.5rem;
+  }
+  input {
+    font-size: 2rem;
+  }
+}

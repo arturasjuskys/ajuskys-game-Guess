@@ -15,3 +15,5 @@ Open `index.html` file in the browser window.
 
 ![](./724%20-%20Guess%20my%20Number!.jpg)
 ![](./726%20-%20Guess%20my%20Number!.jpg)
+![](./727%20-%20Guess%20my%20Number!.jpg)
+![](./728%20-%20Guess%20my%20Number!.jpg)
